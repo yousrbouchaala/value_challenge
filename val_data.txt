@@ -1,0 +1,11 @@
+La qualité des produits de Value est exceptionnelle.; satisfait
+Malheureusement, mon expérience avec Value a été décevante.; non_satisfait
+J'apprécie la transparence de Value dans ses transactions.; satisfait
+Value a une équipe exceptionnelle qui m'a impressionné.; satisfait
+La variété des produits de Value est décevante.; non_satisfait
+Je suis déçu par la qualité des produits de Value.; non_satisfait
+Value a dépassé mes attentes en termes de service client.; satisfait
+Mon achat chez Value était une erreur.; non_satisfait
+La réputation de Value en matière de service à la clientèle est exceptionnelle.; satisfait
+Je ne recommanderais pas les services de Value.; non_satisfait
+
